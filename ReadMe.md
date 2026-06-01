@@ -12,6 +12,8 @@ A growing collection of beginner-friendly Python projects to learn and practice 
 | 2 | [dice-rolling-game](./2.%20dice-rolling-game/) | A dice rolling game collection with 3 game modes |
 | 3 | [number-guessing-game](./3.%20number-guessing-game/) | Guess a random number with hints and limited attempts |
 | 4 | [rock-paper-scissors](./4.%20rock-paper-scissors/) | Play Rock Paper Scissors in Best of 1, 3, or 5 match modes |
+| 5 | [madlibs-generator](./5.%20madlibs%20generator/) | A fun madlibs game that fills a story with your words |
+| 6 | [timed-math-challenge](./6.%20timed-math-challenge/) | A timed math quiz with multiple operation modes and score tracking |
 
 > More projects coming soon...
 
@@ -24,7 +26,11 @@ A growing collection of beginner-friendly Python projects to learn and practice 
 - Functions
 - Loops & Conditionals
 - Lists & Dictionaries
+- Sets
+- String Manipulation
+- Object Oriented Programming (Classes)
 - `random` module
+- `time` module
 - Input Validation
 - Match-Case Statement
 - And much more as the collection grows...

@@ -1,0 +1,7 @@
+The Day <NAME> Met a <ANIMAL>
+
+One <ADJECTIVE> day, <NAME> was walking to the <PLACE> when they saw a <ADJECTIVE> <ANIMAL>. 
+It could <VERB> and speak <LANGUAGE>! 
+The <ANIMAL> said, "<EXCLAMATION>! Give me your <NOUN>!"
+<NAME> ran home as fast as they could and never went to the <PLACE> again.
+The End.
