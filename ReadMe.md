@@ -10,6 +10,7 @@ A growing collection of beginner-friendly Python projects to learn and practice 
 |---|---------|-------------|
 | 1 | [note-keeper](./1.%20note-keeper/) | A simple CLI app to add, view, and clear notes |
 | 2 | [dice-rolling-game](./2.%20dice-rolling-game/) | A dice rolling game collection with 3 game modes |
+| 3 | [number-guessing-game](./3.%20number-guessing-game/) | Guess a random number with hints and limited attempts |
 
 > More projects coming soon...
 
@@ -23,6 +24,7 @@ A growing collection of beginner-friendly Python projects to learn and practice 
 - Loops & Conditionals
 - Lists & Dictionaries
 - `random` module
+- Input Validation
 - And much more as the collection grows...
 
 ---
