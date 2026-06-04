@@ -14,6 +14,7 @@ A growing collection of beginner-friendly Python projects to learn and practice 
 | 4 | [rock-paper-scissors](./4.%20rock%20paper%20seissor/) | Play Rock Paper Scissors in Best of 1, 3, or 5 match modes |
 | 5 | [madlibs-generator](./5.%20madlibs%20generator/) | A fun madlibs game that fills a story with your words |
 | 6 | [timed-math-challenge](./6.%20timed%20math%20challenge/) | A timed math quiz with multiple operation modes and score tracking |
+| 7 | [wordle](./7.%20wordle/) | A CLI Wordle game with color-coded hints and a random word list |
 
 > More projects coming soon...
 
@@ -29,6 +30,7 @@ A growing collection of beginner-friendly Python projects to learn and practice 
 - Sets
 - String Manipulation
 - Object Oriented Programming (Classes)
+- ANSI Color Codes
 - `random` module
 - `time` module
 - Input Validation
