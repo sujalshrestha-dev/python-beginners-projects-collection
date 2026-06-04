@@ -15,6 +15,7 @@ A growing collection of beginner-friendly Python projects to learn and practice 
 | 5 | [madlibs-generator](./5.%20madlibs%20generator/) | A fun madlibs game that fills a story with your words |
 | 6 | [timed-math-challenge](./6.%20timed%20math%20challenge/) | A timed math quiz with multiple operation modes and score tracking |
 | 7 | [wordle](./7.%20wordle/) | A CLI Wordle game with color-coded hints and a random word list |
+| 8 | [hangman](./8.%20hangman/) | A CLI Hangman game with ASCII art stages and difficulty modes |
 
 > More projects coming soon...
 
@@ -31,8 +32,10 @@ A growing collection of beginner-friendly Python projects to learn and practice 
 - String Manipulation
 - Object Oriented Programming (Classes)
 - ANSI Color Codes
+- ASCII Art
 - `random` module
 - `time` module
+- `os.path` module
 - Input Validation
 - Match-Case Statement
 - And much more as the collection grows...
